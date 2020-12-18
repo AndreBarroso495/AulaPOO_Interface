@@ -6,7 +6,7 @@ namespace AulaPOO_Interface
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Aprendendo interfaces");
         }
     }
 }
